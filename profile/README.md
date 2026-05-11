@@ -8,7 +8,8 @@ PandaStack is an all-in-one ecosystem built to power modern development workflow
 
 | Product | Description |
 |---|---|
-| [sandflare.io](https://sandflare.io) | Edge networking, security, and delivery — built for developers |
+| [pandastack.io](https://pandastack.io) | Hosting platform |
+| [sandflare.io](https://sandflare.io) | A place where AI agent runs. Superfast and isolcated |
 | [pandastack.ai](https://pandastack.ai) | (Building..) AI-powered development tools and intelligent automation |
 | [pandaflow](https://github.com/pandastack-io/pandaflow) | Build Multi-Agent AI Systems Visually |
 | [pandawatch.io](https://pandawatch.io) | Monitor everything |
