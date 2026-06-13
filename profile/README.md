@@ -2,7 +2,7 @@
 
 **A Single Platform for All Your Development**
 
-<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/863606dc-7eac-4572-8b06-c0f65eb237a0" />
+<img width="51" height="51" alt="logo" src="https://github.com/user-attachments/assets/863606dc-7eac-4572-8b06-c0f65eb237a0" />
 
 PandaStack is an all-in-one ecosystem built to power modern development workflows. It brings together every tool, service, and integration you need in one place.
 
