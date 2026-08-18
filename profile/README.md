@@ -10,8 +10,7 @@ PandaStack is an all-in-one ecosystem built to power modern development workflow
 
 | Product | Description |
 |---|---|
-| [pandastack.io](https://pandastack.io) | Hosting platform |
-| [pandastack.ai](https://pandastack.ai) | A place where AI agent runs. Superfast and isolated |
+| [pandastack.ai](https://pandastack.ai) | A place where AI agent runs for everything. Superfast and isolated |
 | [pandaflow](https://github.com/pandastack-io/pandaflow) | Build Multi-Agent AI Systems Visually (open source)|
 
 ## ✨ An Ecosystem for Everything
